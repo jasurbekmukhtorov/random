@@ -19,7 +19,8 @@ else {
 }
 if (mynumber == random ) {
     bodyEl.classList.add('colorGREEN')
-    text2.innerText = `Good job dear!!!`
+    text2.innerText = `Good job dear you found!!!`
+    // lkhgukj
 }
 else if(mynumber>5){
     bodyEl.classList.add('colorRED')
